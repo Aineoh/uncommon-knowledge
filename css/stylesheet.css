@@ -1,0 +1,169 @@
+* Preload images */
+body:after {
+  content: url(../img/close.png) url(../img/loading.gif) url(../img/prev.png) url(../img/next.png);
+  display: none;
+}
+
+
+* {
+    margin:0;
+    padding:0;
+    font-size: 100%;
+    line-height: 1.35em;
+}
+        
+body{
+    background-color: #ffffff; 
+    color: #2B2623;
+    
+    }
+        
+h1{
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        color: #2E99BB;
+        }
+        
+        h2 {
+        
+        font-size: 30px;
+        font-family: 'Lato', sans-serif;
+        text-align: center;
+        }
+        
+        h1, h2, h3 {
+        font-weight: normal;
+        margin: 10px 0 10px 0;
+        }
+        
+        .intro {
+        font-style: italic;
+        font-size: 18px;
+        text-align: center;
+        padding: 10px;
+        }
+        
+        p {
+        font-size: 18px;
+        font-family: 'Open Sans', sans-serif;
+        }
+        
+        a {
+        color: #000000;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        }
+        
+        a:hover {
+        text-decoration: none;
+        color: #12C4B2;
+        }
+      
+
+
+        .about me{
+        margin: 10px;
+        }
+
+        .mywork{
+        background: #
+        }
+
+        nav ul {
+        text-align: center;
+        list-style-type: none;
+        padding: 10px;
+        }
+        
+        nav ul li {
+        display: inline ; 
+        margin: 10px;
+        font-size: 16px;
+        font-family: 'Lato', sans-serif;
+        }
+        
+        nav {
+        background: #2E99BB;
+        word-spacing: 1px;
+        }
+        
+        img {
+        display: inline;
+        margin: 0 auto;
+        
+        max-width: 100%; /* max-width lets you size the image to fit into the parent container */
+        }
+
+
+        li{
+        list-style-type: none;
+        }
+
+        ul{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 10px;
+        margin: 10px;
+        }
+
+        .concept{
+        background: ;
+        }
+
+        footer {
+        background: #ffffff;
+        }
+    
+        .social { 
+        background-color: #ffffff;
+        text-align: center;
+        padding-top: 40px;
+        padding-bottom: 30px;
+        }
+        
+
+        small {
+        font-size: 10px;
+        color: #000000;
+        line-height: 10px;
+        }
+
+        header{
+        background: #ffffff;
+        }
+
+        .sketchbooks {
+        padding-left: 10px;
+        padding-right: 10px;
+        }
+
+        .aligncenter{
+        margin-left: auto;
+        margin-right: auto;
+        width: 6em
+        float: inherit;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        padding-left: 135px;
+        
+        }
+
+        .alignright {
+        float:right;
+        padding-left: 20px;
+        }
+
+
+
+/*layout*/
+
+        article {
+        min-width: 300px;
+        max-width: 960px;
+        margin: auto;
+        }
+
+
+
