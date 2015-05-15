@@ -19,4 +19,4 @@
 [Style tile](https://www.flickr.com/photos/80894004@N03/17550220162/in/album-72157651438322161/)
 
 
-branding guidelines for Uncommon Knowledge
+[branding guidelines for Uncommon Knowledge](http://aineoh.github.io/uncommon-knowledge/indexpage.html)
